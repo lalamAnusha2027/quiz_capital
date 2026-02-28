@@ -1,8 +1,7 @@
 
-🏏 Quiz on the Captain of Delhi
-📌 Project Description
+🏏 Quiz on the capital of India 
 
-This project is a dynamic quiz-based website that allows users to test their knowledge about the captain of the Delhi cricket team. The quiz presents multiple-choice options and provides an interactive experience with real-time response handling.
+This project is a dynamic quiz-based website that allows users to test their knowledge about the capital of the India. The quiz presents multiple-choice options and provides an interactive experience with real-time response handling.
 
 The project is designed for beginners to practice frontend development and understand how dynamic web content works.
 
